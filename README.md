@@ -114,11 +114,6 @@ export ZCCCFG=/Users/jmathews/Desktop/z88dk/lib/config
 make
 ```
 
-# Bonus features
-## Dumping factory vector graphics from the ROMs
-```
-python3 ./sega-vector-dump.py
-```
-![screenshot](dump/startrek/sega.png)
-![screenshot](dump/startrek/klingon.gif)
+![screenshot](dump/sega.png)
+![screenshot](dump/klingon.gif)
 
